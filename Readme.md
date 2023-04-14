@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Piyush Thakur</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="coding" width="400" align="right">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" alt="coding" width="300" align="right">
+
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr16866&label=Profile%20views&color=0e75b6&style=flat" alt="pr16866" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr16866" alt="pr16866" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr16866" alt="pr16866" /></a> 
+
+</p>
 
 - 👨‍💻 All of my projects are available at [https://piyush-portfolio.cyclic.app](https://piyush-portfolio.cyclic.app)
 
